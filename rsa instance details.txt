@@ -1,0 +1,15 @@
+rsadb.cgluqjhnc0bi.us-east-1.rds.amazonaws.com
+
+superuser
+jt34.'JhW#.&3j9Q
+
+
+
+https://career.guru99.com/shell-scripting-interview-questions/
+
+https://medium.freecodecamp.org/learn-kubernetes-in-under-3-hours-a-detailed-guide-to-orchestrating-containers-114ff420e882
+
+
+if (-not (Test-Path $PROFILE)) {
+>> New-Item $PROFILE -Type File -force
+>> }
